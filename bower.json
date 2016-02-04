@@ -1,0 +1,11 @@
+{
+  "name": "webapp_seed",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.4.9",
+    "bootstrap": "^3.3.6",
+    "angular-resource": "^1.4.9"
+  }
+}
